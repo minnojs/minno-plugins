@@ -1,6 +1,6 @@
 {
   "name": "minno-plugins",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Random plugins for MinnoJS",
   "main": "index.js",
   "scripts": {
