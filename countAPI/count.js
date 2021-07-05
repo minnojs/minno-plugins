@@ -6,7 +6,7 @@ define(function(){
         return {name:'countAPI', script:{play:count}};
 
         function count(global, done){
-            var globalKey = 'globalKey' in settings ? settings.globalKey : '$globalKey';
+            var globalKey = 'globalKey' in settings ? settings.globalKey : '$countAPI';
             var url = 'https://api.countapi.xyz/hit/{{ns}}/{{key}}'
                 .replace('{{ns}}', settings.namespace)
                 .replace('{{key}}', settings.key);
