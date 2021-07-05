@@ -1,0 +1,19 @@
+{
+  "name": "minno-plugins",
+  "version": "0.0.0",
+  "description": "Random plugins for MinnoJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minnojs/minno-plugins.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/minnojs/minno-plugins/issues"
+  },
+  "homepage": "https://github.com/minnojs/minno-plugins#readme"
+}
